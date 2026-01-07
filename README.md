@@ -1,2 +1,6 @@
-# github-practice
-My first GitHub repository
+# GitHub Practice
+
+Hi 👋  
+I'm Shravani Pitale, a 2nd year IT student.
+
+This repository is for practicing Git and GitHub.
